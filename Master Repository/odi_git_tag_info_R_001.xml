@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OdiGitTagInfo>
+   <ParamMap>
+      <param value="/Master Repository/Technologies/Oracle/Physical Architecture/SRC_ODIDEMO/PSC_SRC_ODIDEMO_ODI_DEMO.xml"/>
+      <param value="/Work Repository/Models/DOAG_DEMO/MFOL_DOAG_DEMO.xml"/>
+      <param value="/Work Repository/Models/DOAG_DEMO/SRC_SERP/MOD_SRC_SERP.xml"/>
+      <param value="/Work Repository/Models/DOAG_DEMO/DWH_STG/MOD_DWH_STG.xml"/>
+      <param value="/Work Repository/Models/DOAG_DEMO/SRC_SERP/Global/TAB_ORDERS.xml"/>
+      <param value="/Work Repository/Models/DOAG_DEMO/DWH_STG/Global/TAB_SERP_ORDERS.xml"/>
+      <param value="/Work Repository/Models/DOAG_DEMO/SRC_SERP/Global/TAB_CITY.xml"/>
+      <param value="/Work Repository/Models/DOAG_DEMO/DWH_STG/Global/TAB_SERP_CITY.xml"/>
+      <param value="/Work Repository/Projects/DOAG_DEMO/PROJ_DOAG_DEMO.xml"/>
+      <param value="/Master Repository/Languages/LANG_SQL.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Physical Architecture/SRC_ODIDEMO/CONN_SRC_ODIDEMO.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Physical Architecture/DWH_PROD/PSC_DWH_PROD_DWH_STG.xml"/>
+      <param value="/Work Repository/Projects/DOAG_DEMO/Knowledge Modules/Integration(IKM)/KM_IKM_Oracle_Control_Append.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Physical Architecture/DWH_PROD/CONN_DWH_PROD.xml"/>
+      <param value="/Work Repository/Projects/DOAG_DEMO/01_DWH_STG/FOLD_01_DWH_STG.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Logical Architecture/LSC_ODI_DEMO_SRC.xml"/>
+      <param value="/Master Repository/Contexts/CONT_Global.xml"/>
+      <param value="/Work Repository/Projects/DOAG_DEMO/01_DWH_STG/Mappings/MAP_M_SRC_SERP_DWH_STG_SERP_ORDERS.xml"/>
+      <param value="/Work Repository/Projects/DOAG_DEMO/01_DWH_STG/Mappings/MAP_M_SRC_SERP_DWH_STG_SERP_CITY.xml"/>
+      <param value="/Work Repository/Projects/DOAG_DEMO/01_DWH_STG/Mappings/Scenarios/SCEN_M_SRC_SERP_DWH_STG_SERP_ORDERS_Version_001.xml"/>
+      <param value="/Work Repository/Projects/DOAG_DEMO/01_DWH_STG/Mappings/Scenarios/SCEN_M_SRC_SERP_DWH_STG_SERP_CITY_Version_001.xml"/>
+      <param value="/Work Repository/Models/DOAG_DEMO/DWH_STG/Global/SMOD_Global.xml"/>
+      <param value="/Work Repository/Projects/DOAG_DEMO/Variables/VAR_lv_NEUES_LADEDATUM.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Logical Architecture/LSC_DWH_STG.xml"/>
+      <param value="/Work Repository/Models/DOAG_DEMO/SRC_SERP/Global/SMOD_Global.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/TECH_Oracle.xml"/>
+   </ParamMap>
+</OdiGitTagInfo>
